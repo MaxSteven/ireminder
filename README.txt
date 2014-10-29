@@ -6,7 +6,7 @@ Here are some images of the ui:
 ![alt tag](http://alijafargholi.com/wp-content/uploads/2014/10/ireminder_main_window.png)
 ![alt tag](http://alijafargholi.com/wp-content/uploads/2014/10/ireminder_notification.png)
 
-![Alt text](http://alijafargholi.com/wp-content/uploads/2014/10/ireminder_notification.png?raw=true "Ireminder Notification Window")
+![Ireminder Notification](http://alijafargholi.com/wp-content/uploads/2014/10/ireminder_notification.png?raw=true "Ireminder Notification Window")
 
 For more information please visit following link:
 http://alijafargholi.com/2014/10/ireminder-python-pyqt4/
